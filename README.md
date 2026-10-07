@@ -238,4 +238,4 @@ This repository serves as the official landing page for MultiMC. The software is
 **Get the most recent version of MultiMC today!**
 
 ---
-**Last updated:** 2026-10-07 09:50:49 UTC
+**Last updated:** 2026-10-07 17:16:17 UTC
